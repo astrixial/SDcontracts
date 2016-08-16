@@ -11,8 +11,8 @@ The throw function .Issue
 */
   contract Blackhole {
 
-function run (int n*q) returns(bytes32);
- returns(bytes8)
+  function run (int n*q) returns(bytes32);
+    returns(bytes8)
  {
    if (n == 0)  {
     return "Done";
@@ -23,16 +23,16 @@ function run (int n*q) returns(bytes32);
  Hogger me = Hogger(address(this));
    return me.run(v- 1);
 }
-function insert(bytes32 com) return (bool res) {
-if (MT.cur == 16 ) {
-reurn false; 
-MT.leaves[MT.cur] = com;
-Mt.cur++;
-return true;
+   function insert(bytes32 com) return (bool res) {
+        if (MT.cur == 16 ) {
+             reurn false; 
+       MT.leaves[MT.cur] = com;
+       Mt.cur++;
+       return true;
  }
  }
 }
-function Vulnerable {
+  function Vulnerable {
     bool alreadyPaid;
 
     // You think it will send only half of its balance, once.
@@ -46,7 +46,7 @@ function Vulnerable {
     }
 }
 
-functio Attacker {
+function Attacker {
     bool attacked;
     Vulnerable toAttack;
 
