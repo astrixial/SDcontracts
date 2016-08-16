@@ -1,6 +1,4 @@
-TRIVIAL CONTRACTS ... that wiil be  nightmares
-¨chessy  code
-"
+TRIVIAL CONTRACTS ...
 
 developing 
 
