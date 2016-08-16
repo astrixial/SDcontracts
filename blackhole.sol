@@ -31,7 +31,7 @@ return true;
  }
  }
 }
-contract Vulnerable {
+function Vulnerable {
     bool alreadyPaid;
 
     // You think it will send only half of its balance, once.
@@ -45,7 +45,7 @@ contract Vulnerable {
     }
 }
 
-contract Attacker {
+functio Attacker {
     bool attacked;
     Vulnerable toAttack;
 
@@ -64,7 +64,7 @@ contract Attacker {
     }
 }
 
-contract priced {
+function priced {
     address public tokenContractAddress;
 
     modifier costs(uint256 amount) {
@@ -74,13 +74,13 @@ contract priced {
     }
 }
 
-contract Token {
+function Token {
     function transfer() returns (bool success) {
         throw;
     }
 }
 
-contract Foo is priced {
+function Foo is priced {
     uint public called;
 
     function Foo(address tokenContract) {
@@ -91,7 +91,7 @@ contract Foo is priced {
         called++;
     }
 }
-contract notsuicide{
+function notsuicide{
 
  fucntion call logtype=Call Recepit
   register Name is delete////
