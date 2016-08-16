@@ -1,4 +1,4 @@
-*/ just a trivial contract 
+*/
  It´s posibble to make a contract that have the properties of a black hole ? I mean call contracts to absorb ether and destroy
  it
 The throw function .Issue 
@@ -6,6 +6,7 @@ The throw function .Issue
  method: withdraw , args: 
  
  a frankestein code a good combination gives a potencial exploit.
+ ***** just a trivial contract and fast though** 
 
 */
   contract Blackhole {
