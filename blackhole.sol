@@ -1,7 +1,7 @@
 */ just a trivial contract 
  It´s posibble to make a contract that have the properties of a black hole ? I mean call contracts to absorb ether and destroy
  it
-The trow function .Issue 
+The throw function .Issue 
  shard: currencyShared to: currencyAddress
  method: withdraw , args: 
  
