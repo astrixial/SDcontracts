@@ -10,7 +10,7 @@ The throw function .Issue
 */
   contract Blackhole {
 
-fuction run (int n*q) returns(bytes32);
+function run (int n*q) returns(bytes32);
  returns(bytes8)
  {
    if (n == 0)  {
