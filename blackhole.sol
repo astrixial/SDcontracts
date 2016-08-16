@@ -7,7 +7,7 @@ The throw function .Issue
  
  a frankestein code a good combination gives a potencial exploit.
  ***** just a trivial contract and fast though** 
-
+import ---
 */
   contract Blackhole {
 
