@@ -24,7 +24,7 @@ import ---?¿
 }
    function insert(bytes32 com) return (bool res) {
         if (MT.cur == 16 ) {
-             reurn false; 
+             return false; 
        MT.leaves[MT.cur] = com;
        Mt.cur++;
        return true;
