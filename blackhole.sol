@@ -9,7 +9,7 @@ The throw function .Issue
  ***** just a trivial contract and fast though** 
 import ---?¿ //abstrac contract to call contracs-dummyconsole.
 /*
-@param EVM tools not updgrade -0x20 -0x19
+@send EVM tools not updgrade -0x20 -0x19
 @param sha3(concat(k, p)), //Management key security .
 @param Fixed points will be interesting
 @param Inline assembly is not updgrade a better mananagment 3 contracts Interface , the creation , .sol.
