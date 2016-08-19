@@ -1,3 +1,6 @@
+
+ PITFALLS 
+
 TRIVIAL CONTRACTS ...
 
 developing 
