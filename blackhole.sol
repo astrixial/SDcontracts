@@ -1,22 +1,28 @@
-*/
+*/   EDUCATIONAL PROPOSALS 
  It´s posibble to make a contract that have the properties of a black hole ? I mean call contracts to absorb ether.
+-Trivial Analytics
 The throw function .Issue 
- shard: currencyShared to: currencyAddress
+ shard: currencyShared to: currencyAddress 
  method: withdraw , args: 
  
- a frankestein code a good combination gives a potencial exploit.
+ A frankestein code "a good combination gives a potencial exploit." //Trivial method-
  ***** just a trivial contract and fast though** 
-import ---?¿
-*/
+import ---?¿ //abstrac contract to call contracs-dummyconsole.
+/*
+@param EVM tools not updgrade -0x20 -0x19
+/*
   contract Blackhole {
 
-  function run (int n*q) returns(bytes32);
+  function run (int n**q)/p returns(bytes32); // trivial the original  function run (int n) returns (bytes32)
     returns(bytes8)
  {
    if (n == 0)  {
     return "Done";
 }
    if (q == 0) {
+   return "Done";
+   }
+   if (p == 0){
    return "Done";
    }
  Hogger me = Hogger(address(this));
@@ -28,7 +34,6 @@ import ---?¿
        MT.leaves[MT.cur] = com;
        Mt.cur++;
        return true;
- }
  }
 }
   function Vulnerable {
@@ -91,7 +96,9 @@ function Foo is priced {
         called++;
     }
 }
-function notsuicide{
+//   function notsuicide{ functions in developing that run a init and delegate call with EVM tools updrage
 
- fucntion call logtype=Call Recepit
-  register Name is delete////
+// function call logtype=Call Recepit
+ 
+ 
+  //register Name is delete////
