@@ -10,6 +10,7 @@ The throw function .Issue
 import ---?¿ //abstrac contract to call contracs-dummyconsole.
 /*
 @param EVM tools not updgrade -0x20 -0x19
+@param sha3(concat(k, p)), //Management key security .
 /*
   contract Blackhole {
 
