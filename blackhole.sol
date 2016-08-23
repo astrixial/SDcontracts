@@ -14,7 +14,7 @@ import ---?¿ //abstrac contract to call contracs-dummyconsole.
 @param Fixed points will be interesting
 @param Inline assembly is not updgrade a better mananagment 3 contracts Interface , the creation , .sol.
 /EVM is a stack machine.
-//  Bugs :run out of gas , Transaction-Ordering Dependence ,Timestamp Dependence ,Mishandled Exceptions ,reentrancy
+//  Bugs :run out of gas , Transaction-Ordering Dependence ,Timestamp Dependence ,Mishandled Exceptions ,reentrancy , solidity
 /*
   contract Blackhole {
 
